@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteeveASproul
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on small beginners projects
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently working with HTML, CSS, JavaScript, and Python
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/steeve-a-d-sproul-995166a0 or https://www.sortingspace.com/contact-me-sorting-space/
 
 <!---
